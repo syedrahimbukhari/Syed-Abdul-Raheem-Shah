@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdul Raheem!</h1>
-<h3 align="center">A passionate Data Scientist and ML Engineer</h3>
+<h1 align="center">Hi 👋, I'm Syed Abdul Raheem!</h1>
+<h3 align="center">A passionate Data Scientist and AI Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science and AI**
 
-- 💬 Ask me about **I’m a Data Scientist with over 2 years of experience, skilled in Python, Machine Learning, Deep Learning, and Data Visualization tools like Power BI and Tableau. I complete ADS (2 years) program in Computer Science | Shah Latif University. Certificated Program | Boston Institute of Analytics (BIA) and Pursuing BS in Data Science & AI | Khawaja Fareed University.**
+- 💬 Ask me about **I’m a Data Scientist with over 2 years of experience, skilled in Python, Machine Learning, Deep Learning and GenAI. I complete ADS (2 years) program in Computer Science | Shah Latif University. Certificated Program | Boston Institute of Analytics (BIA) KRY Campus and Pursuing  Bachelor’s degree in Data Science & AI | Khawaja Fareed University.**
 
 - 📫 How to reach me **syedabdulrahimshah4@gmail.com**
 
